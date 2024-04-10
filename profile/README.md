@@ -5,7 +5,8 @@
 ⚪ Started but not finished</br>
 ❌ Not started
 
-## TJPP LT
+## The Jackbox Party Pack
+### Lithuanian
 | Game | Text | Graphic | Website | VA |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | You Don't Know Jack | ❌ | ❌ | ❌ | ❌ |
@@ -14,7 +15,8 @@
 | Lie Swatter | ❌ | ❌ | ❌ | ❌ |
 | Fibbage XL | ❌ | ❌ | ❌ | ❌ |
 
-## TJPP3 LV
+## The Jackbox Party Pack 3
+### Latvian
 | Game | Text | Graphic | Website | VA |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 2 | ⚪ | ⚪ | ⚪ | ❌ |
@@ -23,14 +25,16 @@
 | Fakin It | ⚪ | ⚪ | ❌ | ❌ |
 | Tee K.O. | ✅ | ✅ | ✅ | ❌ |
 
-## TJPS LV
+## The Jackbox Party Starter
+### Latvian
 | Game | Text | Graphic | Website | VA |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 3 | ❌ | ❌ | ❌ | ❌ |
 | Trivia Murder Party 2  | ❌ | ❌ | ❌ | ❌ |
 | Tee K.O. | ✅ | ✅ | ✅ | ❌ |
 
-## TJPS EE
+## The Jackbox Party Starter
+### Estonian
 | Game | Text | Graphic | Website | VA |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 3 | ⚪ | ❌ | ❌ | ❌ |
