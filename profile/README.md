@@ -7,8 +7,8 @@
 
 ## The Jackbox Party Pack
 ### Lithuanian
-| Game | Text | Graphic | Website | VA |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Game | Text | Graphic | Website | VA | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |
 | You Don't Know Jack | ❌ | ❌ | ❌ | ❌ |
 | Drawful | ✅ | ✅ | ✅ | ✅ |
 | Word Spud  | ❌ | ❌ | ❌ | ❌ |
@@ -17,26 +17,25 @@
 
 ## The Jackbox Party Pack 3
 ### Latvian
-| Game | Text | Graphic | Website | VA |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Game | Text | Graphic | Website | VA | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 2 | ⚪ | ⚪ | ⚪ | ❌ |
 | Trivia Murder Party  | ❌ | ❌ | ❌ | ❌ |
 | Guesspionage  | ❌ | ❌ | ❌ | ❌ |
 | Fakin It | ⚪ | ⚪ | ❌ | ❌ |
-| Tee K.O. | ✅ | ✅ | ✅ | ❌ |
+| Tee K.O. | ✅ | ✅ | ✅ | ❌ | [In the patch](https://github.com/Jackbox-Baltic/JPP3lv)
 
 ## The Jackbox Party Starter
 ### Latvian
-| Game | Text | Graphic | Website | VA |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Game | Text | Graphic | Website | VA | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 3 | ❌ | ❌ | ❌ | ❌ |
 | Trivia Murder Party 2  | ❌ | ❌ | ❌ | ❌ |
-| Tee K.O. | ✅ | ✅ | ✅ | ❌ |
+| Tee K.O. | ✅ | ✅ | ✅ | ❌ | [In the patch](https://github.com/Jackbox-Baltic/JPSbaltic)
 
-## The Jackbox Party Starter
 ### Estonian
-| Game | Text | Graphic | Website | VA |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Game | Text | Graphic | Website | VA | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 3 | ⚪ | ❌ | ❌ | ❌ |
 | Trivia Murder Party 2  | ❌ | ❌ | ❌ | ❌ |
 | Tee K.O. | ❌ | ❌ | ❌ | ❌ |
