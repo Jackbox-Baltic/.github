@@ -10,7 +10,7 @@
 | Game | Text | Graphic | Website | VA |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | You Don't Know Jack | ❌ | ❌ | ❌ | ❌ |
-| Drawful | ✅ | ✅ | ✅ | ⚪ |
+| Drawful | ✅ | ✅ | ✅ | ✅ |
 | Word Spud  | ❌ | ❌ | ❌ | ❌ |
 | Lie Swatter | ❌ | ❌ | ❌ | ❌ |
 | Fibbage XL | ❌ | ❌ | ❌ | ❌ |
